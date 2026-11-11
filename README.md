@@ -174,10 +174,7 @@ Four cognitive games targeting distinct areas of brain function in a stress-free
 <img width="220" height="476" alt="image" src="https://github.com/user-attachments/assets/2960968e-99b9-48e7-84e6-2cc09fbad76c" />
 
 ### 🧓🏼 6. Alzheimer-friendly accessibility & UI/UX
-* **Scalable typography:** Global font size selector in Settings module coupled with generous line spacing.
-
-  <img width="220" height="476" alt="image" src="https://github.com/user-attachments/assets/60fa633d-1cd4-454b-8e81-9790bb5cd223" />
-
+- **Scalable typography:** Global font size selector in Settings module coupled with generous line spacing.
 - **Toned down, high-contrast Material 3 palette:** Uses a calm, non-overwhelming color scheme with high contrast between UI elements so components stand out clearly without causing visual fatigue.
 - **100% offline:** All featuresm, including cognitive games, the MIND diet recipes, and medication/task schedulers - work completely offline without requiring an internet connection. The app can be used reliably anywhere and at any time, eliminating confusing network error messages or loading screens.
 - **Enlarged touch targets & explicit text labels:** Oversized clickable areas compensate for reduced fine motor control in seniors. Ambiguous icon-only buttons are avoided in favor of large, explicitly labeled actions (e.g., a prominent button labeled with the word *"Powrót"* / *"Back"* instead of just an arrow).
